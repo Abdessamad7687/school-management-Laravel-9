@@ -1,0 +1,45 @@
+
+
+.card:nth-child(1){
+    background-image: url("../img/Hamza.jpg");
+    background-size: contain;
+  
+    background-repeat: no-repeat;
+  }
+  .card:nth-child(2){
+    background-image: url("../img/Oumaima.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-bottom: solid 65px black;
+  }
+  .card:nth-child(3){
+    background-image: url("../img/Bnetta.jpg");  
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-bottom: solid 65px black;
+  }
+  .card:nth-child(4){
+    background-image: url("../img/Nachrat.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-bottom: solid 65px black;
+  }
+  .card:nth-child(5){
+    background-image: url("../img/99.jpg");
+      background-size: contain;
+    background-repeat: no-repeat;
+    border-bottom: solid 65px black;
+  }
+  
+  .card-info{
+    width: 300px;
+    height: 300px;
+    padding: 2rem 1rem;
+    background-size: cover;
+    box-shadow: 10px 15px 10px rgba(0,0,0,0.5);
+    transition: 0.5s ease-in-out;
+  }
+  .card-info:nth-child(1){
+    background-image: url("../img/Moujaz\ Bnetta.jpg");
+  }
+  
